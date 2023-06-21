@@ -33,19 +33,19 @@ Before embarking on this project, I drafted the analysis workflow to foster a sm
 
 
 ### INSIGHTS
-> A large number of positive covid-19 cases are fully recovered and discharged. Many combative measures have been adopted by countries to mitigate the spread of this virus.
-> The country, Montenegro has the highest infection rate overall, with 25.09% of her population contracting the virus.
-> USA have the overall highest number of cases, total deaths, total recovered, and serious cases recorded in the world with India and Brazil following closely behind. This as expected is a result of the large population in these counties.
-> Countries like Macao, Palau, Marshall Island, and more, with low cases have the highest recovery rate. It is easier and faster to curb a small number of infected cases, rather than a large population.
-Yemen is the country with the highest death rate overall. It is known to be one of the poorest countries in Asia.
-New cases of covid-19 virus has arisen in European countries like UK, Russia, Germany, Poland, Netherlands.
-Top 5 countries with the highest currently active cases are USA, UK, Russia, Germany, and Netherlands. This could be a result of new cases rising in Europe. 
-USA, India, UK, Russia, and France have the highest record of covid-19 test taken. This could be a result of either the high population of these countries or high immigration rate.
-South America has the highest death rate of 2.7%, followed by Africa with 2.6%. According to Wall Street Journal, this is a result of occurrence of more infectious variants, low vaccination rates, weak health-care and nonchalant approach of the government in controlling the virus. Africa recorded a high death rate as a result of low provision of high quality heath-care.
-Africa has the lowest infection rate of 0.66%. This is the result of factors like young population, favourable climate, and quick action according to Global Development Commons.
-The countries with the highest rate of infection per continent include Seychelles (Africa), Georgia (Asia), Fiji (Australia), Montenegro (Europe), French Guiana (South America), Aruba (North America). These are low gdp countries. 
-Highest Overall cases per continent occurred in South Africa (Africa), India (Asia), Australia (Australia), UK (Europe), US (North America), Brazil (South America).
-Counties with the highest death rate per continent are: Western Sahara (Africa), Yemen (Asia), Vanuatu (Australia), Bosnia and Herzegovina (Europe), Mexico (North America), Ecuador (South America). All these countries except Mexico have low gdp. According to the death toll was high as a rest of the low testing rate. Citizen however believe it is a result of the slow response of the government.
+1. A large number of positive COVID-19 cases are fully recovered and discharged. Many combative measures have been adopted by countries to mitigate the spread of this virus.
+2. The country of Montenegro has the highest infection rate overall, with 25.09% of its population contracting the virus.
+3. The USA has the overall highest number of cases, total deaths, total recovered, and serious cases recorded in the world, with India and Brazil following closely behind. This, as expected, is a result of the large population in these counties.
+4. Countries like Macao, Palau, Marshall Islands, and more, with low cases have the highest recovery rate. It is easier and faster to curb a small number of infected cases, rather than a large population.
+5. Yemen is the country with the highest death rate overall. It is known to be one of the poorest countries in Asia.
+6. New cases of the COVID-19 virus have arisen in European countries like the UK, Russia, Germany, Poland, and the Netherlands.
+7. The top 5 countries with the highest number of currently active cases are USA, UK, Russia, Germany, and Netherlands. This could be a result of population and the new cases arising in Europe. 
+8. USA, India, UK, Russia, and France have the highest record of COVID-19 tests taken. This could be a result of either the high population of these countries or the high immigration rate.
+9. South America has the highest death rate of 2.7%, followed by Africa with 2.6%. According to the Wall Street Journal, this is a result of the occurrence of more infectious variants, low vaccination rates, weak health care, and the nonchalant approach of the government to controlling the virus. Africa recorded a high death rate as a result of the low provision of high-quality health care.
+10. Africa has the lowest infection rate of 0.66%. This is the result of factors like a large young population, a favorable climate, and quick mitigation action according to Global Development Commons.
+11. The countries with the highest rate of infection per continent include Seychelles (Africa), Georgia (Asia), Fiji (Australia), Montenegro (Europe), French Guiana (South America), Aruba (North America). These are low gdp countries. 
+12. Highest Overall cases per continent occurred in South Africa (Africa), India (Asia), Australia (Australia), UK (Europe), US (North America), Brazil (South America).
+13. Counties with the highest death rate per continent are: Western Sahara (Africa), Yemen (Asia), Vanuatu (Australia), Bosnia and Herzegovina (Europe), Mexico (North America), Ecuador (South America). All these countries except Mexico have low gdp. According to the Global Development Commons, death toll was high because of the low testing rate. Citizens, however, believe it is a result of the slow response of the government.
 
 
 
