@@ -20,7 +20,9 @@ The metrics examined are:
     
 Before embarking on this project, I drafted the analysis workflow to foster a smooth data ride. This workflow include:
 > Data Gathering - Direct Download
+
 > Visual Data Accessing - Microsoft Excel
+
 > Accessing Programmatically - Python
 > Data Cleaning - Power Query
 > Data Modelling - PowerBI
