@@ -71,9 +71,9 @@ To interact with the dashboard, click [here](https://app.powerbi.com/Redirect?ac
 There is a need for Plato's Pizza to improve its operations by employing data. Nowadays, many businesses are adopting data in their development and everyday decision making. If they are not employed, there will be a drastic reduction in their profitability. Thus, Plato's Pizza has decided to utilize the collected transactional data for the past year to make decisions through data analytics to drive more sales and work more efficiently.
 
 ### Questions
-The questions to be answered as required by the stakeholders include:
+The questions required by the stakeholders to be answered include:
 
-• What days and times do we tend to be busiest?
+• On what days and times do we tend to be busiest?
 
 • What are our best and worst selling pizzas?
 
@@ -82,3 +82,30 @@ The questions to be answered as required by the stakeholders include:
 • How much money did we make this year? Can we identify any
 seasonality in the sales?
 
+### Analysis Workflow
+
+> Data Gathering - Direct Download
+
+> Accessing Data - Microsoft Excel
+
+> Data Cleaning - Power Query
+
+> Data Modelling - PowerBI
+
+> Reporting - PowerBI
+
+### Insight
+The dashboards designed for the performance evaluation of Plato's Pizza Place reveal many hidden insights that can serve as factor for better optimization of the business and increasing revenue generation. These insights include:
+
+ Total revenue generated in 2015 is $818K.
+ Total order recorded in 2015 is 21,350 and average order value is $38.
+A continuous dip in orders and revenue generation was observed between August and October.
+July was a rainy month with large orders and high revenue. 
+The lowest sales growth percentage occurred between November to December while the highest was between October and November. It seems that the sales strategy employed in October to raise revenue was short-term and unable to fully mitigate the challenge, thereby causing a lower plunge in revenue generation.
+Many customers prefer the classic flavor to other ones.
+The large pizza size has the most order and contributes largely to the total revenue. This is closely followed by small sized pizza.
+Classic Deluxe has the highest order among all pizza.
+The pizzas that contribute the most to the revenue are Thai Chicken, Barbecue Chicken, California Chicken, Classic Deluxe, and Spicy Italian.
+Most orders were made on Fridays.
+Most orders on Fridays and Saturdays are made around 9pm -10pm. This can be attributed to weekend parties and hangouts among friends.
+Weekday orders are higher around 12pm - 2pm and 4 - 6pm which are official lunch hours and after-work hours.
