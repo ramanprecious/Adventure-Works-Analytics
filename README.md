@@ -1,6 +1,6 @@
 # Data-Analyst-Portfolio-PowerBI
 
-## PROJECT ONE: [COVID19 ANALYTICS](
+## PROJECT ONE - [COVID-19 Analytics](
 
 ### OVERVIEW
 
@@ -62,6 +62,8 @@ I recommend that:
 
 To interact with the dashboard, click [here](https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=5cdc9569-8b31-4965-91d9-55ca22160890&pbi_source=mobile_android&groupObjectId=13df9013-2c69-41fd-9b2d-3ff3710e77a7&appId=&reportObjectId=d99c9b48-83e1-46ec-a4f9-a220099dabe6&reportPage=ReportSection9387ebb946c165690029&bookmarkGuid=94a4ac74-bb61-4623-9d98-0554a9280600)
 
+##### Here is a pictorial sample of the introductory message for deeper insight
+![Omowunmi](https://user-images.githubusercontent.com/62135469/189687785-b364e8c1-74fd-45b5-8f32-58cd955828c7.png)
 
 
 
