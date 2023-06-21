@@ -94,18 +94,30 @@ seasonality in the sales?
 
 > Reporting - PowerBI
 
-### Insight
+### Insights
 The dashboards designed for the performance evaluation of Plato's Pizza Place reveal many hidden insights that can serve as factor for better optimization of the business and increasing revenue generation. These insights include:
 
- Total revenue generated in 2015 is $818K.
- Total order recorded in 2015 is 21,350 and average order value is $38.
-A continuous dip in orders and revenue generation was observed between August and October.
-July was a rainy month with large orders and high revenue. 
-The lowest sales growth percentage occurred between November to December while the highest was between October and November. It seems that the sales strategy employed in October to raise revenue was short-term and unable to fully mitigate the challenge, thereby causing a lower plunge in revenue generation.
-Many customers prefer the classic flavor to other ones.
-The large pizza size has the most order and contributes largely to the total revenue. This is closely followed by small sized pizza.
-Classic Deluxe has the highest order among all pizza.
-The pizzas that contribute the most to the revenue are Thai Chicken, Barbecue Chicken, California Chicken, Classic Deluxe, and Spicy Italian.
-Most orders were made on Fridays.
-Most orders on Fridays and Saturdays are made around 9pm -10pm. This can be attributed to weekend parties and hangouts among friends.
+1. Total revenue generated in 2015 was $818K.
+2. The total number of orders recorded in 2015 was 21,350, and the average order value was $38.
+3. A continuous dip in orders and revenue generation was observed between August and October.
+4. The lowest sales growth percentage occurred between November and December, while the highest was between October and November. It seems that the sales strategy employed in October to raise revenue was short-term and unable to fully mitigate the challenge, thereby causing a plunge in revenue generation.
+5. Many customers prefer the classic flavor to other ones.
+6. The large pizza size has the most orders and contributes largely to the total revenue. This is closely followed by small pizzas.
+Classic Deluxe has the highest order among all pizzas.
+7. The pizzas that contribute the most to the revenue are Thai Chicken, Barbecue Chicken, California Chicken, Classic Deluxe, and Spicy Italian.
+8. July was a rainy month with large orders and high revenue. 
+9. Most orders were made on Fridays.
+10. Most orders on Fridays and Saturdays are made around 9 p.m.–10 p.m. This can be attributed to weekend parties and hangouts among friends.
 Weekday orders are higher around 12pm - 2pm and 4 - 6pm which are official lunch hours and after-work hours.
+
+### Recommendations
+1. There is an increased demand for certain types of pizza. More so, these demands are so peculiar during the rush hours (1pm-2pm, 4pm-6pm) everyday. A slight increase in the price of the most ordered products like Chicken deluxe, Pepperoni, Hawaiian, Pepperoni, Barbecue chicken, Thai chicken, California chicken, Spicy Italian, Sicilian, and Four cheese would boost the Average Order Value.
+2. More provision of the most ordered pizza, especially during rush time.
+3. Upselling and Product recommendation will improve the sale of less-ordered items.
+4. Inclusion of products' add-ons like extra pepperoni, extra cheese etc. will allow customers purchase other pizzas with a choice familiar flavor add-on.
+5. Give discounts to customers that buy in large quantity.
+6. Creation of bundles that contain both high performing and low performing pizzas. This will boost revenue.
+7. Collection of additional information on customers will assist  in detecting new insights to make good sales and marketing decisions.
+
+
+
