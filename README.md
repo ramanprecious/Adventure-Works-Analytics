@@ -121,6 +121,9 @@ Weekday orders are higher around 12pm - 2pm and 4 - 6pm which are official lunch
 
 To interact with the dashboard, click [here](https://app.powerbi.com/groups/me/reports/ceecefec-ce0f-421c-a0cc-ec9c47c9ca9d/ReportSection823b1cf09c489e3e4c64?experience=power-bi)
 
-##### Here are pictorial samples of the sales and order dashboards for deeper insight
+##### Here are pictorial samples of the revenue and orders dashboards for deeper insight
+*Revenue Dashboard*
 ![dash 2](https://github.com/ramanprecious/Data-Analyst-Portfolio-PowerBI/assets/62135469/e3e26df2-f0c6-4fc6-93d8-4afd015644fa)
 
+*Orders Dashboard
+![dash 3](https://github.com/ramanprecious/Data-Analyst-Portfolio-PowerBI/assets/62135469/0da6f4ce-6864-43aa-a7f9-c6fb60d83eff)
