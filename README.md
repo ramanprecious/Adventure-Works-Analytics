@@ -65,6 +65,8 @@ To interact with the dashboard, click [here](https://app.powerbi.com/Redirect?ac
 ##### Here is a pictorial sample of the introductory message for deeper insight
 ![Final maybe](https://github.com/ramanprecious/Data-Analyst-Portfolio-PowerBI/assets/62135469/7a0ee41c-8584-46af-885b-336cf3d9945c)
 
+## PROJECT TWO - [Plato's Pizza Analytics Analytics](https://github.com/ramanprecious/Data-Analyst-Portfolio-PowerBI/tree/main/Covid19%20Analytics)
 
-
+### Problem Statement
+There is a need for Plato's Pizza to improve its operations by employing data. Nowadays, many businesses are adopting data in their development and everyday decision making. If not employed, there will be drastic reduction in their profitability. Thus, Plato's Pizza have decided to utilize collected tansactional data for the past year to make decisions through data analytics to drive more sales and work more efficiently.
 
