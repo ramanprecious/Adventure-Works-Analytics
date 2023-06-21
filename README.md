@@ -24,9 +24,13 @@ Before embarking on this project, I drafted the analysis workflow to foster a sm
 > Visual Data Accessing - Microsoft Excel
 
 > Accessing Programmatically - Python
+
 > Data Cleaning - Power Query
+
 > Data Modelling - PowerBI
+
 > Reporting - PowerBI
+
 
 ### INSIGHTS
 > A large number of positive covid-19 cases are fully recovered and discharged. Many combative measures have been adopted by countries to mitigate the spread of this virus.
