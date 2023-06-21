@@ -123,7 +123,9 @@ To interact with the dashboard, click [here](https://app.powerbi.com/groups/me/r
 
 ##### Here are pictorial samples of the revenue and orders dashboards for deeper insight
 *Revenue Dashboard*
+
 ![dash 2](https://github.com/ramanprecious/Data-Analyst-Portfolio-PowerBI/assets/62135469/e3e26df2-f0c6-4fc6-93d8-4afd015644fa)
 
-*Orders Dashboard
+*Orders Dashboard*
+
 ![dash 3](https://github.com/ramanprecious/Data-Analyst-Portfolio-PowerBI/assets/62135469/0da6f4ce-6864-43aa-a7f9-c6fb60d83eff)
