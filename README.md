@@ -2,9 +2,44 @@
 
 ### OVERVIEW
 
-Covid-19 is the illness responsible for the global pandemic that occurred in year 2020, causing the deaths of millions of people across the world. This illness caused by a novel coronavirus called severe acute respiratory syndrome **Corona Virus 2** (SARS-CoV-2) was first identified in Wuhan City, China.
-Some infected persons experience mild to moderate respiratory illness, recovering without intensive medical attention while others, especially the elderly, with underlying medical conditions are more likely to develop serious illness which may lead to death.
+COVID-19 is the illness responsible for the global pandemic that occurred in year 2020, causing the deaths of millions of people across the world. This illness caused by a novel coronavirus called severe acute respiratory syndrome **Corona Virus 2** (SARS-CoV-2) was first identified in Wuhan City, China.
+Some infected persons experience mild to moderate respiratory illness, recovering without intensive medical attention, while others especially the elderly, with underlying medical conditions are more likely to develop serious illnesses that may lead to death.
 
+In this project, I investigated and visualized a COVID-19 data collected from the World Health Organization using PowerBI software application. This provided several insights into the overview of the total Covid cases and other metrics. It also served as a tracker of the infection rate per country from 2020 to date.
+
+The metrics examined are:
+1. Active Cases
+2. Infection Rate
+3. Death Rate
+4. Total number of Recovered Persons
+5. Recovery Rate
+6. Total number of serious cases
+7. Total COVID Cases
+8. Total number of deaths
+9. Total Population
+    
+Before embarking on this project, I drafted the analysis workflow to foster a smooth data ride. This workflow include:
+> Data Gathering - Direct Download
+> Visual Data Accessing - Microsoft Excel
+> Accessing Programmatically - Python
+> Data Cleaning - Power Query
+> Data Modelling - PowerBI
+> Reporting - PowerBI
+
+### INSIGHTS
+> A large number of positive covid-19 cases are fully recovered and discharged. Many combative measures have been adopted by countries to mitigate the spread of this virus.
+> The country, Montenegro has the highest infection rate overall, with 25.09% of her population contracting the virus.
+> USA have the overall highest number of cases, total deaths, total recovered, and serious cases recorded in the world with India and Brazil following closely behind. This as expected is a result of the large population in these counties.
+> Countries like Macao, Palau, Marshall Island, and more, with low cases have the highest recovery rate. It is easier and faster to curb a small number of infected cases, rather than a large population.
+Yemen is the country with the highest death rate overall. It is known to be one of the poorest countries in Asia.
+New cases of covid-19 virus has arisen in European countries like UK, Russia, Germany, Poland, Netherlands.
+Top 5 countries with the highest currently active cases are USA, UK, Russia, Germany, and Netherlands. This could be a result of new cases rising in Europe. 
+USA, India, UK, Russia, and France have the highest record of covid-19 test taken. This could be a result of either the high population of these countries or high immigration rate.
+South America has the highest death rate of 2.7%, followed by Africa with 2.6%. According to Wall Street Journal, this is a result of occurrence of more infectious variants, low vaccination rates, weak health-care and nonchalant approach of the government in controlling the virus. Africa recorded a high death rate as a result of low provision of high quality heath-care.
+Africa has the lowest infection rate of 0.66%. This is the result of factors like young population, favourable climate, and quick action according to Global Development Commons.
+The countries with the highest rate of infection per continent include Seychelles (Africa), Georgia (Asia), Fiji (Australia), Montenegro (Europe), French Guiana (South America), Aruba (North America). These are low gdp countries. 
+Highest Overall cases per continent occurred in South Africa (Africa), India (Asia), Australia (Australia), UK (Europe), US (North America), Brazil (South America).
+Counties with the highest death rate per continent are: Western Sahara (Africa), Yemen (Asia), Vanuatu (Australia), Bosnia and Herzegovina (Europe), Mexico (North America), Ecuador (South America). All these countries except Mexico have low gdp. According to the death toll was high as a rest of the low testing rate. Citizen however believe it is a result of the slow response of the government.
 
 
 
