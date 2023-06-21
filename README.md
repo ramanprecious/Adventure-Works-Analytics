@@ -74,8 +74,11 @@ There is a need for Plato's Pizza to improve its operations by employing data. N
 The questions to be answered as required by the stakeholders include:
 
 • What days and times do we tend to be busiest?
+
 • What are our best and worst selling pizzas?
+
 • What's our average order value?
+
 • How much money did we make this year? Can we identify any
 seasonality in the sales?
 
