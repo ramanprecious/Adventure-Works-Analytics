@@ -1,6 +1,6 @@
 # Data-Analyst-Portfolio-PowerBI
 
-## PROJECT ONE - [COVID-19 Analytics](
+## PROJECT ONE - [COVID-19 Analytics](https://github.com/ramanprecious/Data-Analyst-Portfolio-PowerBI/tree/main/Covid19%20Analytics)
 
 ### OVERVIEW
 
