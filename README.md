@@ -168,7 +168,7 @@ To interact with the dashboard, click [here](https://app.powerbi.com/groups/13df
 
 *Sales Dashboard*
 
-![Adventure1](https://github.com/ramanprecious/Data-Analyst-Portfolio-PowerBI/assets/62135469/25564df7-5086-4860-a08b-17c4198e98c6)
+![Adventure1](https://github.com/ramanprecious/Data-Analyst-Portfolio-PowerBI/assets/62135469/7f121cf1-2a87-446f-a91c-87fb093e41fa)
 
 *Customer Retention Dashboard*
 
