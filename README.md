@@ -129,3 +129,23 @@ To interact with the dashboard, click [here](https://app.powerbi.com/groups/me/r
 *Orders Dashboard*
 
 ![dash 3](https://github.com/ramanprecious/Data-Analyst-Portfolio-PowerBI/assets/62135469/0da6f4ce-6864-43aa-a7f9-c6fb60d83eff)
+
+## PROJECT THREE 
+
+### Summary
+This project aims at the evaluation of the internet sales performance and customer retention of Adventure Wroks company between 2021 and 2022.
+Adventure Works is a big dog company involved in the sales of personal items like bikes, vests, classic wash, jersey, bottles, etc.
+As the world becomes technologically advance, Adveture works stakeholders have decidedto increase productivity and profitability by employing the use of data in making accurate decision and building strategies.
+
+### Analysis Workflow
+
+> Data Gathering - Querying from the database using SQL Server.
+
+> Accessing Data - SQL Server
+
+> Data Cleaning - SQL Server
+
+> Data Modelling - PowerBI
+
+> Reporting - PowerBI
+
