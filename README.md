@@ -1,4 +1,4 @@
-#[Adventure Works Analysis](https://github.com/ramanprecious/Data-Analyst-Portfolio-PowerBI/tree/main/Adventure%20Works%20Analytics)
+# [Adventure Works Analysis](https://github.com/ramanprecious/Data-Analyst-Portfolio-PowerBI/tree/main/Adventure%20Works%20Analytics)
 
 ### Summary
 This project aims to evaluate the internet sales performance and customer retention of Adventure Wroks company between 2021 and 2022.
