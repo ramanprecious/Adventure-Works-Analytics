@@ -1,9 +1,9 @@
 # [Adventure Works Analysis](https://github.com/ramanprecious/Data-Analyst-Portfolio-PowerBI/tree/main/Adventure%20Works%20Analytics)
 
 ### Summary
-This project aims to evaluate the internet sales performance and customer retention of Adventure Wroks company between 2021 and 2022.
+This project aims to evaluate the internet sales performance and customer retention of Adventure Works between 2021 and 2022.
 
-Adventure Works is a big dog company involved in the sales of personal items like bikes, vests, classic wash, jersey, bottles, etc.
+Adventure Works is a big dog company involved in the sales of personal items like bikes, vests, classic wash, jerseys, bottles, etc.
 As the world becomes more technologically advanced, Adventure Works stakeholders have decided to increase productivity and profitability by employing the use of data in making accurate decisions and building strategies.
 
 ### Analysis Workflow
